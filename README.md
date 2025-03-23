@@ -87,17 +87,15 @@ By integrating **Next.js, MongoDB, Razorpay, and AI**, Parko makes urban travel 
 
 ---
 
-## 🛠️ **Technology Stack**  
+## 🛠️ **How We Built PARKO (Tech Stack)**  
 
-| **Component**      | **Technology Used**                        |  
-|-------------------|--------------------------------------|  
-| **Frontend**      | Next.js, React, Tailwind CSS, Framer Motion  |  
-| **Backend**       | Node.js, Next.js API Routes, MongoDB (Mongoose)  |  
-| **Authentication**| Next-Auth (Google Sign-In)  |  
-| **Database**      | MongoDB (Mongoose ORM)  |  
-| **Payments**      | Razorpay API  |  
-| **AI Module**     | AI-based travel planning integration |  
-
+| **Component**    | **Technology Used** 🚀 |
+|-----------------|---------------------|
+| **Frontend**    | Next.js |
+| **Backend**     | Node.js & Express.js 🖥️ |
+| **Database**    | MongoDB 🗄️ |
+| **AI & ML**     | Google Gemini 1.5 API 🤖 |
+| **Payments**    | Razorpay/Stripe API 💳 |
 ---
 
 ## 📥 **Installation & Setup**  
