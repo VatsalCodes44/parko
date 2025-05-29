@@ -3,12 +3,13 @@
   "symbol": "18+",
   "description": "Restricted token",
   "image": "https://st2.depositphotos.com/1216158/6811/v/950/depositphotos_68110071-stock-illustration-18-age-restriction-sign.jpg",
+  "seller_fee_basis_points": 0
   "attributes": [],
   "properties": {
     "files": [
       {
         "uri": "https://st2.depositphotos.com/1216158/6811/v/950/depositphotos_68110071-stock-illustration-18-age-restriction-sign.jpg",
-        "type": "image/png"
+        "type": "image/jpeg"
       }
     ],
     "category": "image"
